@@ -1,4 +1,4 @@
 vim.opt.background = "dark"
 
 
-vim.cmd("colorscheme default")
+vim.cmd("colorscheme kanagawa")
